@@ -213,7 +213,7 @@ define("Q10","Task 10: Dove of Peace");
 define("Q10_DESC","The first days after signing up you are protected against attacks by your fellow players. You can see how long this protection lasts by adding the code <b>[#0]<\/b> to your profile.");
 define("Q10_ORDER","Order:<\/p>Write the code <b>[#0]<\/b> into your profile by adding it to one of the two description fields.");
 define("Q10_RESP","Well done! Now everyone can see what a great warrior the world is approached by.");
-define("Q10_REWARD","Your reward:<\/p>2 day Travian");
+define("Q10_REWARD","Your reward:<\/p>999 day Travian");
 
 define("Q11","Task 11: Neighbours!");
 define("Q11_DESC","Around you, there are many different villages. One of them is named. ");
@@ -355,7 +355,7 @@ define("T4","fetch");
 define("T5","fetched");
 define("T6","on hold");
 define("T7","1 day Travian ");
-define("T8","2 days Travian ");
+define("T8","999 days Travian ");
 
 //Quest 25
 define("Q25_7","Task 7: Neighbours!");
@@ -381,7 +381,7 @@ define("Q25_10","Task 10: Comming Soon!");
 define("Q25_10_DESC","Now there is time for a small break until the gigantic army I sent you arrives.<br \/><br \/>Until then you can explore the map or extend a few resource tiles.");
 define("Q25_10_ORDER","Order:<\/p>Wait for the taskmaster's army to arrive");
 define("Q25_10_RESP","Now a huge army from taskmaster has arrive to protect your village");
-define("Q25_10_REWARD","Your reward:<\/p>2 days more of Travian");
+define("Q25_10_REWARD","Your reward:<\/p>999 days more of Travian");
 
 define("Q25_11","Task 11: Reports");
 define("Q25_11_DESC","Every time something important happens to your account you will receive a report.<br \/><br \/>You can see these by clicking on the left half of the 5th button (from left to right). Read the report and come back here.");
